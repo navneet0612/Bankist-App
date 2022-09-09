@@ -1,1 +1,1 @@
-# Bankist.App
+# Bankist-App
